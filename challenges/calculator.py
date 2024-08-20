@@ -70,3 +70,5 @@ while True:
     else:
         print("\n" * 20)
         first_num = int(input("What's the first number?: "))
+
+#Angela's solution used recursion which we can be used instread of while True but it achieves the same result 
