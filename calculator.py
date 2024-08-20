@@ -49,4 +49,5 @@ while True:
         first_num = result
     else:
         print("\n" * 20)
+        print(art.logo)
         first_num = float(input("What's the first number?: "))
